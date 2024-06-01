@@ -24,7 +24,9 @@ intellijPlatform {
 
 dependencies {
     intellijPlatform {
-        intellijIdeaCommunity("2023.2.6")
+        // intellijIdeaCommunity("2024.1.2")
+        intellijIdeaCommunity("2023.2")
+        // androidStudio("2023.3.1.19")
 
         bundledPlugin("com.intellij.java") // ?
 
