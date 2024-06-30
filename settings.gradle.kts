@@ -5,4 +5,4 @@ pluginManagement {
     }
 }
 
-rootProject.name = "KotlinArgumentsFiller"
+rootProject.name = "Kotlin Arguments Filler"
